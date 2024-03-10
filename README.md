@@ -1,0 +1,1 @@
+It's a basic example of encryption and decryption .I didn't use any regex concept just used the ascii values concept and done it with logic and it only works for lowercase English alphabets because the asci values are given in that way .Bye..Bye..... and try it.
